@@ -1,0 +1,134 @@
+[
+    {
+        "id": 612,
+        "autore": "Marco Rossi",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1000",
+        "titolo": "L'ascesa dell'Intelligenza Artificiale",
+        "tags": [
+            "AI",
+            "Tech",
+            "Future"
+        ],
+        "testo": "L'intelligenza artificiale sta trasformando radicalmente il modo in cui viviamo e lavoriamo. Dalle automobili a guida autonoma alla diagnostica medica, le possibilità sembrano infinite, ma le sfide etiche rimangono al centro del dibattito globale.",
+        "like": 124,
+        "views": 1540,
+        "commenti": [
+            {
+                "autore": "Luca",
+                "testo": "Articolo molto interessante e ben scritto!"
+            },
+            {
+                "autore": "Sara",
+                "testo": "Non vedo l'ora di scoprire come evolveranno i LLM nel 2025."
+            }
+        ]
+    },
+    {
+        "id": 897,
+        "autore": "Elena Bianchi",
+        "url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1000",
+        "titolo": "Retro-computing: Il fascino dell'Hardware",
+        "tags": [
+            "Hardware",
+            "Nostalgia",
+            "Design"
+        ],
+        "testo": "C'è qualcosa di magico nel suono di un vecchio processore che si avvia e nel caricamento dei dati da un floppy disk. In un'era di cloud e velocità istantanea, riscoprire le radici dell'informatica è un esercizio di umiltà e stile.",
+        "like": 89,
+        "views": 920,
+        "commenti": [
+            {
+                "autore": "Davide",
+                "testo": "Il mio primo PC era un Commodore 64, che ricordi!"
+            }
+        ]
+    },
+    {
+        "id": 505,
+        "autore": "Giulia Verdi",
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000",
+        "titolo": "Sviluppo Web: Oltre JavaScript",
+        "tags": [
+            "Coding",
+            "WebDev",
+            "Cloud"
+        ],
+        "testo": "Le architetture moderne si stanno spostando verso una maggiore efficienza lato server. Mentre JavaScript rimane il re del browser, nuovi linguaggi e framework stanno ridefinendo cosa significa costruire app scalabili e sicure.",
+        "like": 210,
+        "views": 3100,
+        "commenti": [
+            {
+                "autore": "Admin",
+                "testo": "Ottimi spunti, specialmente la parte sul serverless."
+            },
+            {
+                "autore": "Marta",
+                "testo": "Tailwind è ancora la scelta migliore per lo stile?"
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "autore": "Alessandro Neri",
+        "url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1000",
+        "titolo": "Cybersecurity: Proteggere i Dati nel 2026",
+        "tags": [
+            "Security",
+            "Privacy",
+            "Data"
+        ],
+        "testo": "Con l'aumento degli attacchi informatici basati su AI, la difesa perimetrale non basta più. L'approccio Zero Trust è diventato lo standard per le aziende che vogliono proteggere i propri asset critici in un mondo sempre più connesso.",
+        "like": 156,
+        "views": 2100,
+        "commenti": [
+            {
+                "autore": "Roberto",
+                "testo": "La crittografia post-quantistica sarà il prossimo grande tema."
+            }
+        ]
+    },
+    {
+        "id": 718,
+        "autore": "Sofia Longo",
+        "url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?q=80&w=1000",
+        "titolo": "Internet delle Cose e Domotica",
+        "tags": [
+            "IoT",
+            "SmartHome",
+            "Automation"
+        ],
+        "testo": "Le nostre case stanno diventando veri e propri organismi digitali. Sensori intelligenti e assistenti vocali promettono di abbattere i consumi energetici, ma sollevano interrogativi importanti sulla gestione della privacy domestica.",
+        "like": 92,
+        "views": 1150,
+        "commenti": [
+            {
+                "autore": "Elena",
+                "testo": "Ho appena automatizzato le luci, un risparmio incredibile!"
+            },
+            {
+                "autore": "Marco_Dev",
+                "testo": "Matter diventerà finalmente lo standard universale?"
+            }
+        ]
+    },
+    {
+        "id": 334,
+        "autore": "Riccardo Riva",
+        "url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000",
+        "titolo": "Esplorazione Spaziale: Robotica e Marte",
+        "tags": [
+            "Space",
+            "Robotics",
+            "Science"
+        ],
+        "testo": "I rover marziani non sono solo veicoli, ma laboratori chimici complessi. La sfida attuale è l'autonomia decisionale: i robot devono saper scegliere quali rocce analizzare senza attendere i minuti necessari per il segnale dalla Terra.",
+        "like": 315,
+        "views": 4500,
+        "commenti": [
+            {
+                "autore": "AstronomyLover",
+                "testo": "Immagini mozzafiato, sembra di essere lì!"
+            }
+        ]
+    }
+]
